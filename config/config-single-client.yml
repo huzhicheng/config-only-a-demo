@@ -1,4 +1,4 @@
-env: online-dev
+env: online
 user:
   username: fengzheng-online
   password: password-online
