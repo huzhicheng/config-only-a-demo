@@ -1,5 +1,5 @@
 data:
-  env: localhost-dev
+  env: localhost-dev1
   user:
-    username: fengzheng-dev
-    password: password-dev
+    username: fengzheng-dev1
+    password: password-dev1
