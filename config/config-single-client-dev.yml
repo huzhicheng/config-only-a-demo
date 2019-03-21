@@ -1,4 +1,5 @@
-env: localhost-dev
-user:
-  username: fengzheng-dev
-  password: password-dev
+data:
+  env: localhost-dev
+  user:
+    username: fengzheng-dev
+    password: password-dev

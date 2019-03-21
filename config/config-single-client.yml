@@ -1,4 +1,5 @@
-env: online-update
-user:
-  username: fengzheng-online
-  password: password-online
+data:
+  env: localhost-online
+  user:
+    username: fengzheng-online
+    password: password-online
